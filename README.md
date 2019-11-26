@@ -23,7 +23,7 @@ https://devhints.io/
 * Css reset 
 * My Grid 
 
-* - add cssmin url false
+* Add cssmin url false
 
 port: 8025
 
